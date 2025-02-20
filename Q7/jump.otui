@@ -1,0 +1,10 @@
+MainWindow
+  id: jumpWindow
+  size: 300 300
+
+  Button
+    id: jumpButton
+    !text: tr('Jump!')
+    width: 60
+    anchors.right: parent.right
+    anchors.top: parent.top

@@ -1,0 +1,9 @@
+Module
+  name: game_jump
+  description: Jump Button
+  author: Tonin
+  sandboxed: true
+  dependencies: [ game_interface ]
+  scripts: [ jump ]
+  @onLoad: init()
+  @onUnload: terminate()
