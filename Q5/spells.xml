@@ -1,0 +1,2 @@
+<instant group="attack" spellid="118" name="TLG frigo" words="frigo" level="1" mana="0" premium="0" selftarget="1" cooldown="6000" groupcooldown="4000" needlearn="0" script="attack/frigo.lua">
+	</instant>
